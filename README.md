@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeSithum&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## Latest Blog post
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=sithum_udayanga)](https://medium.com/@sithum_udayanga)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SithumSaga)](https://twitter.com/SithumSaga)
 
